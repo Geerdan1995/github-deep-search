@@ -1,0 +1,7 @@
+# 本地内部件（不发布）
+reports/
+agents/
+
+# Python
+__pycache__/
+*.pyc
